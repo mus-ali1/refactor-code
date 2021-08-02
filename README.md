@@ -34,8 +34,8 @@ THEN I find a concise, descriptive title
 ```
 ## Links:
 
-[Deployed Link]()
+[Deployed Link](https://mus-ali1.github.io/refactor-code/)
 
-[Git Hub Repo]()
+[Git Hub Repo](https://github.com/mus-ali1/refactor-code)
 
 ![website image](./assets/images/horiseon-screenshot.png)
